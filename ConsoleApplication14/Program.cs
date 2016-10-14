@@ -15,7 +15,7 @@ namespace ConsoleApplication14
             Rectangle rect = new Rectangle(3,2);
             double tmp,tmp1;
             tmp = rect.Area;
-           
+           //jg jg
             tmp1 = rect.Perimetr;
             
         }
